@@ -8,7 +8,7 @@ Not hired — yet. 😉
 ### 🖥️ General
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTExLjk5NyAxLjAwN2MtLjI1OSAwLS41MTguMDYxLS43NTEuMTY5bC03LjI0MSAzLjYyQy0zLjQyNCA1LjA1MiAyIDEyLjExOCAyIDEyLjExOHYzLjc2NGMwIC41MjguMjkzIDEuMDEuNzYgMS4yNjJsNy4yNDEgMy42MmMuMjM0LjEwOC40OTIuMTY5Ljc1MS4xNjkuMjU4IDAgLjUxNy0uMDYxLjc1LS4xNjlsNy4yNDEtMy42MkMyMi43MDcgMTYuODggMjMuOTk5IDEyLjg4IDI0IDEyLjExOFY4LjM1NGMwLS41MjgtLjI5My0xLjAxLS43Ni0xLjI2MkwxMi43NSAxLjE3NmEuODQ1Ljg0NSAwIDAgMC0uNzUuMTY5eiIvPjwvc3ZnPg==&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
