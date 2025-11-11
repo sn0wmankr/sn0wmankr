@@ -26,6 +26,13 @@ Not hired — yet. 😉
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)
 ![Pterodactyl](https://img.shields.io/badge/Pterodactyl-181E24?logo=pterodactyl&logoColor=white)
 
+### 🤖 AI & LLM Tools
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?logo=openai&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-412991?logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?logo=google&logoColor=white)
+![Gemini CLI](https://img.shields.io/badge/Gemini%20CLI-34A853?logo=googlecloud&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude%20AI-FFD700?logo=anthropic&logoColor=black)
+
 ## 🤝 Connect With Me
 
 📧 **Email:** [wjdrkfka3@gmail.com](mailto:wjdrkfka3@gmail.com)  
