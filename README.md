@@ -20,6 +20,7 @@ Not hired — yet. 😉
 ![Rhymix](https://img.shields.io/badge/Rhymix-009DDC?logo=php&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
 ![MediaWiki](https://img.shields.io/badge/MediaWiki-FDCB02?logo=mediawiki&logoColor=black)
+![SEO](https://img.shields.io/badge/SEO-4285F4?logo=google&logoColor=white)
 
 ### 🧩 Infrastructure & Server
 ![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white)
