@@ -5,7 +5,7 @@ Not hired — yet. 😉
 
 ## ⚙️ Tech Stack
 
-### 🖥️ General
+### 💻 Languages & OS
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-68217A?logo=microsoft&logoColor=white)
@@ -14,18 +14,20 @@ Not hired — yet. 😉
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 
+### 🕸️ Web & CMS
+![Rhymix](https://img.shields.io/badge/Rhymix-009DDC?logo=php&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
+![MediaWiki](https://img.shields.io/badge/MediaWiki-FDCB02?logo=mediawiki&logoColor=black)
+
 ### 🧩 Backend & Server
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white)
-![Rhymix](https://img.shields.io/badge/Rhymix-009DDC?logo=php&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
 ![OPNsense](https://img.shields.io/badge/OPNsense-D94F00?logo=opnsense&logoColor=white)
 ![Let's Encrypt](https://img.shields.io/badge/Let's%20Encrypt-003A70?logo=letsencrypt&logoColor=white)
 
 ### 🗄️ Database & DevOps
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)
