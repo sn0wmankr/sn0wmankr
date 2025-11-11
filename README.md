@@ -24,5 +24,6 @@ Not hired — yet. 😉
 
 ## 🤝 Connect With Me
 
+🏠 **Homepage:** [https://sn0wman.kr/](https://sn0wman.kr/)
 📧 **Email:** [wjdrkfka3@gmail.com](mailto:wjdrkfka3@gmail.com)  
-💬 **Discord:** [sn0wmankr](https://discordapp.com/users/248390798612103168)
+💬 **Discord:** [sn0wmankr](https://discordapp.com/users/248390798612103168)  
