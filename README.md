@@ -9,11 +9,14 @@ Not hired — yet. 😉
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 
 ### 🧩 Backend & Server
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white)
+![OPNsense](https://img.shields.io/badge/OPNsense-D94F00?logo=opnsense&logoColor=white)
 
 ### 🗄️ Database & DevOps
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
@@ -24,6 +27,6 @@ Not hired — yet. 😉
 
 ## 🤝 Connect With Me
 
-🏠 **Homepage:** [https://sn0wman.kr/](https://sn0wman.kr/)
 📧 **Email:** [wjdrkfka3@gmail.com](mailto:wjdrkfka3@gmail.com)  
 💬 **Discord:** [sn0wmankr](https://discordapp.com/users/248390798612103168)  
+🏠 **Homepage:** [https://sn0wman.kr/](https://sn0wman.kr/)
