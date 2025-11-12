@@ -44,6 +44,11 @@ Not hired — yet. 😉
 
 ## 🤝 Connect With Me
 
-📧 **Email:** [wjdrkfka3@gmail.com](mailto:wjdrkfka3@gmail.com)  
-💬 **Discord:** [sn0wmankr](https://discordapp.com/users/248390798612103168)  
-🏠 **Homepage:** [https://sn0wman.kr/](https://sn0wman.kr/)
+![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)
+[wjdrkfka3@gmail.com](mailto:wjdrkfka3@gmail.com)
+![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)
+[sn0wmankr](https://discordapp.com/users/248390798612103168)
+![Homepage](https://img.shields.io/badge/Homepage-000000?logo=About.me&logoColor=white)
+[sn0wman.kr](https://sn0wman.kr)
+![Community](https://img.shields.io/badge/sn0wmanCS2%20Community-00ADEF?logo=steam&logoColor=white)
+[sn0wmancs2.kr](https://sn0wmancs2.kr)
