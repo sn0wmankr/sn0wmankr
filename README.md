@@ -44,7 +44,4 @@ Not hired — yet. 😉
 
 ## 🤝 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wjdrkfka3@gmail.com)  
-[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discordapp.com/users/248390798612103168)  
-[![Homepage](https://img.shields.io/badge/Homepage-000000?logo=About.me&logoColor=white)](https://sn0wman.kr)  
-[![sn0wmanCS2 Community](https://img.shields.io/badge/sn0wmanCS2%20Community-000000?logo=counter-strike&logoColor=white)](https://sn0wmancs2.kr)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wjdrkfka3@gmail.com)[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discordapp.com/users/248390798612103168)[![Homepage](https://img.shields.io/badge/Homepage-0A66C2?logo=internetexplorer&logoColor=white)](https://sn0wman.kr)[![sn0wmanCS2 Community](https://img.shields.io/badge/sn0wmanCS2%20Community-000000?logo=counter-strike&logoColor=white)](https://sn0wmancs2.kr)
