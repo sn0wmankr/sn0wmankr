@@ -41,10 +41,3 @@ Not hired — yet. 😉
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?logo=google&logoColor=white)
 ![Gemini CLI](https://img.shields.io/badge/Gemini%20CLI-34A853?logo=googlecloud&logoColor=white)
 ![Claude AI](https://img.shields.io/badge/Claude%20AI-FFD700?logo=anthropic&logoColor=black)
-
-## 🤝 Connect With Me
-
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wjdrkfka3@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discordapp.com/users/248390798612103168)
-[![Homepage](https://img.shields.io/badge/Homepage-0A66C2?logo=internetexplorer&logoColor=white)](https://sn0wman.kr)
-[![sn0wmanCS2 Community](https://img.shields.io/badge/sn0wmanCS2%20Community-000000?logo=counter-strike&logoColor=white)](https://sn0wmancs2.kr)
