@@ -1,6 +1,6 @@
-## ⚙️ Tech Stack
+# ⚙️ Tech Stack
 
-### 💻 Languages & Platforms
+## 💻 Languages & Platforms
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-68217A?logo=microsoft&logoColor=white)
@@ -11,13 +11,13 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 
-### 🕸️ Web Frameworks & CMS
+## 🕸️ Web Frameworks & CMS
 ![Rhymix](https://img.shields.io/badge/Rhymix-009DDC?logo=php&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
 ![MediaWiki](https://img.shields.io/badge/MediaWiki-FDCB02?logo=mediawiki&logoColor=black)
 ![SEO](https://img.shields.io/badge/SEO-4285F4?logo=google&logoColor=white)
 
-### 🧩 Infrastructure & Server
+## 🧩 Infrastructure & Server
 ![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white)
 ![OPNsense](https://img.shields.io/badge/OPNsense-D94F00?logo=opnsense&logoColor=white)
 ![Let's Encrypt](https://img.shields.io/badge/Let's%20Encrypt-003A70?logo=letsencrypt&logoColor=white)
@@ -25,12 +25,12 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-### 🗄️ Database & Cloud Services
+## 🗄️ Database & Cloud Services
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 
-### 🤖 AI & LLM Tools
+## 🤖 AI & LLM Tools
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?logo=openai&logoColor=white)
 ![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-412991?logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?logo=google&logoColor=white)
