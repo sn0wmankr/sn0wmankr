@@ -1,8 +1,3 @@
-# Hello World! 👋
-
-Just a curious developer who loves building cool things.  
-Not hired — yet. 😉
-
 ## ⚙️ Tech Stack
 
 ### 💻 Languages & Platforms
