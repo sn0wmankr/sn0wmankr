@@ -1566,18 +1566,14 @@ body::before {
 
 .project-image {
   flex: 1;
-  min-width: 220px;
-  max-width: 350px;
-  padding: 20px;
+  min-width: 260px;
+  max-width: 420px;
+  padding: 0;
   display: flex;
-  align-items: center;
+  align-items: stretch;
   justify-content: center;
   overflow: hidden;
-}
-
-.project-image {
   position: relative;
-  overflow: hidden;
 }
 
 .project-image::before {
@@ -1599,10 +1595,10 @@ body::before {
 
 .project-image img {
   width: 100%;
-  height: 250px;
+  height: 100%;
   object-fit: cover;
   object-position: center center;
-  border-radius: 15px;
+  border-radius: 18px;
   box-shadow: 
     0 10px 25px rgba(0, 0, 0, 0.2),
     0 0 0 1px rgba(255, 255, 255, 0.1),
@@ -1696,8 +1692,8 @@ body::before {
   display: inline-flex;
   align-items: center;
   gap: 10px;
-  padding: 12px 24px;
-  border-radius: 25px;
+  padding: 14px 28px;
+  border-radius: 28px;
   background: linear-gradient(135deg, #4bc0c0, #36a0a0);
   color: white !important;
   font-size: 0.95em;
@@ -1709,6 +1705,8 @@ body::before {
     0 0 0 1px rgba(255, 255, 255, 0.2);
   border: none;
   cursor: pointer;
+  margin-top: 18px;
+  width: fit-content;
 }
 
 .project-btn:hover {
@@ -1723,6 +1721,39 @@ body::before {
 
 .project-btn i {
   font-size: 1em;
+}
+
+/* TEMP: 프로젝트 카드 드래그 정렬용 스타일
+   사용을 중단하려면 .project-draggable-card, .project-drag-handle 관련 블록만 삭제하면 됩니다. */
+.project-draggable-card {
+  position: relative;
+}
+
+.project-drag-handle {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  width: 28px;
+  height: 28px;
+  border-radius: 999px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(15, 23, 42, 0.6);
+  border: 1px solid rgba(148, 163, 184, 0.6);
+  color: rgba(226, 232, 240, 0.9);
+  cursor: grab;
+  font-size: 0.9em;
+  z-index: 10;
+}
+
+.project-drag-handle:hover {
+  background: rgba(15, 23, 42, 0.85);
+}
+
+.project-draggable-card.project-dragging {
+  opacity: 0.85;
+  transform: scale(0.98);
 }
 
 .tech-badges {
