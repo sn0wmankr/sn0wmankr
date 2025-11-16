@@ -9,6 +9,10 @@
   }
 }
 
+.mobile-nav {
+  display: none;
+}
+
 body::before {
   content: '';
   position: fixed;
@@ -112,40 +116,73 @@ body::before {
   }
   
   .side-menu {
-    position: relative;
-    width: 100%;
-    height: auto;
-    padding: 20px;
-    border-right: none;
+    display: none;
+  }
+  
+  .mobile-nav {
+    display: flex !important;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background: linear-gradient(180deg, rgba(16, 185, 129, 0.15), rgba(5, 150, 105, 0.1));
+    backdrop-filter: blur(20px);
     border-bottom: 2px solid rgba(16, 185, 129, 0.3);
-  }
-  
-  .side-menu::after {
-    margin-bottom: 20px;
-    font-size: 1.5em;
-  }
-  
-  .side-navigation {
-    flex-direction: row;
-    gap: 10px;
-  }
-  
-  .side-nav-item {
-    flex: 1;
-  }
-  
-  .side-nav-item a {
-    padding: 12px 8px;
-    font-size: 0.9em;
-    text-align: center;
+    padding: 15px 20px;
+    z-index: 9999;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+    gap: 12px;
+    align-items: center;
     justify-content: center;
+  }
+  
+  .mobile-nav-brand {
+    font-size: 1.3em;
+    font-weight: 700;
+    color: rgba(255, 255, 255, 0.95);
+    text-shadow: 0 2px 10px rgba(16, 185, 129, 0.5);
+    margin-right: auto;
+  }
+  
+  .mobile-nav-links {
+    display: flex;
+    gap: 10px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .mobile-nav-links a {
+    padding: 10px 20px;
+    border-radius: 12px;
+    background: rgba(255, 255, 255, 0.05);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    color: rgba(255, 255, 255, 0.8);
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 0.9em;
+    transition: all 0.3s ease;
+  }
+  
+  .mobile-nav-links a.active {
+    background: linear-gradient(135deg, #10b981, #059669);
+    color: white;
+    border-color: rgba(255, 255, 255, 0.3);
+    box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);
+  }
+  
+  .mobile-nav-links a:hover {
+    background: linear-gradient(135deg, rgba(16, 185, 129, 0.2), rgba(5, 150, 105, 0.15));
+    border-color: rgba(16, 185, 129, 0.5);
+    color: #ffffff;
   }
   
   .container {
     margin-left: 0;
     max-width: 100%;
     display: block;
-    padding: 20px 15px;
+    padding: 80px 15px 20px 15px;
   }
 }
 
