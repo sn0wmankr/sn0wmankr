@@ -110,7 +110,7 @@ body::before {
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1200px) {
   body {
     display: block;
   }
@@ -1907,7 +1907,7 @@ body::before {
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1200px) {
   .profile-intro-card {
     flex-direction: column;
     text-align: center;
