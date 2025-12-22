@@ -1,38 +1,72 @@
-# ⚙️ Tech Stack
+# ❄️ Infrastructure & Tech Stack: sn0wman & Repentance
 
-## 💻 Languages & Platforms
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-68217A?logo=microsoft&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+A robust, multi-layered server infrastructure optimized for **Security** and **Scalability**. This environment hosts a mix of private game servers, community platforms, and mission-critical church services.
 
-## 🕸️ Web Frameworks & CMS
-![Rhymix](https://img.shields.io/badge/Rhymix-009DDC?logo=php&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
-![MediaWiki](https://img.shields.io/badge/MediaWiki-FDCB02?logo=mediawiki&logoColor=black)
-![SEO](https://img.shields.io/badge/SEO-4285F4?logo=google&logoColor=white)
+---
 
-## 🧩 Infrastructure & Server
-![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white)
-![OPNsense](https://img.shields.io/badge/OPNsense-D94F00?logo=opnsense&logoColor=white)
-![Let's Encrypt](https://img.shields.io/badge/Let's%20Encrypt-003A70?logo=letsencrypt&logoColor=white)
-![Pterodactyl](https://img.shields.io/badge/Pterodactyl-181E24?logo=pterodactyl&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+## 🏗️ Core Infrastructure Stack
+The foundation of the infrastructure, leveraging modern virtualization and robust server OS.
 
-## 🗄️ Database & Cloud Services
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+| Layer | Technology |
+| :--- | :--- |
+| **Operating System** | ![Ubuntu](https://img.shields.io/badge/Ubuntu%2024.04%20LTS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) |
+| **Virtualization** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Portainer](https://img.shields.io/badge/Portainer-13BEFF?style=for-the-badge&logo=portainer&logoColor=white) |
+| **Backend & Web** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white) |
+| **Database & Cache** | ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) |
 
-## 🤖 AI & LLM Tools
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?logo=openai&logoColor=white)
-![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-412991?logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?logo=google&logoColor=white)
-![Gemini CLI](https://img.shields.io/badge/Gemini%20CLI-34A853?logo=googlecloud&logoColor=white)
-![Claude AI](https://img.shields.io/badge/Claude%20AI-FFD700?logo=anthropic&logoColor=black)
+---
+
+## 🛡️ Network & Security (Zero Trust)
+Hardened security architecture protecting internal assets from external threats.
+
+- **Edge Security:** `OPNsense` Firewall with `IDS/IPS` & `CrowdSec` integration.
+- **Secure Access:** `Cloudflare Tunnel` for ingress without open ports, `Cloudflare Access` for identity-based control.
+- **Private Mesh:** `Tailscale` for secure inter-node communication.
+- **Traffic Control:** `AdGuard Home` for DNS filtering and internal ad-blocking.
+
+---
+
+## 📈 Observability & Monitoring
+Comprehensive monitoring to ensure 99.9% uptime across all nodes.
+
+### **Monitoring Stack**
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![Uptime Kuma](https://img.shields.io/badge/Uptime%20Kuma-61DAFB?style=flat-square&logo=uptime-kuma&logoColor=black)
+
+### **External Health Checks**
+- **SaaS Monitoring:** `BetterStack`, `StatusCake`, `Cronitor`.
+- **Automated Status Page:** `Upptime` (Powered by GitHub Actions).
+
+---
+
+## 🗄️ Multi-Cloud Backup Strategy
+Ensuring data integrity through automated, redundant off-site backups.
+
+- **Orchestration:** `Restic` (Deduplication) & `Rclone` (Sync).
+- **Automation:** Custom `Bash Scripts` triggered via `Crontab`.
+- **Targets:**
+    - 📁 **Google Drive** (Primary Cloud Storage)
+    - 📁 **MEGA** (Secondary Redundancy)
+
+---
+
+## 🚀 Specialized Services
+
+### 🎮 Game Server Hosting
+- **Management:** `Pterodactyl Panel` & `Wings`.
+- **Primary Game:** `Counter-Strike 2` (High-performance dedicated nodes).
+
+### ⛪ Mission & Community
+- **Church Platform:** `Rhymix` (CMS).
+- **E-Commerce:** `WooCommerce`.
+- **Knowledge Base:** `Wiki.js`.
+- **Media:** `Jellyfin` (Dockerized).
+
+---
+
+## 🌐 External Cloud Ecosystem
+- **Static Hosting:** `GitHub Pages`, `Google Sites`.
+- **Version Control:** `GitHub`.
+- **DNS Management:** `Cloudflare`.
+
+---
+> **"Stability through redundancy, Security through Zero Trust."** > Maintained by **sn0wman**
