@@ -1,4 +1,4 @@
-# ❄️ Infrastructure & Tech Stack: sn0wman & Repentance
+# ❄️ Infrastructure & Tech Stack
 
 A robust, multi-layered server infrastructure optimized for **Security** and **Scalability**. This environment hosts a mix of private game servers, community platforms, and mission-critical church services.
 
