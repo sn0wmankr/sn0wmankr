@@ -4,9 +4,16 @@ AI-first builder who enjoys vibe coding ideas into reality.
 
 ## Current Focus
 
-- 🎮 Game server operations  
-- 🌐 Managing and building web platforms  
+- 🎮 Operating game servers  
+- 🌐 Running and building web platforms  
 - 🤖 AI-driven tools & automation experiments  
+
+## Live Platforms
+
+- 🌍 sn0wman.kr — Personal site  
+- 🎮 sn0wmanCS2.kr — CS2 community  
+- ⛪ dongtanms.kr — Church platform  
+- 🌅 repentanceheaven.kr — Mission organization  
 
 ## I Like To
 
