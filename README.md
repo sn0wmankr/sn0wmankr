@@ -10,10 +10,11 @@ AI-first builder who enjoys vibe coding ideas into reality.
 
 ## Live Platforms
 
-- 🌍 sn0wman.kr — Personal site  
+- 🌍 sn0wman.kr — Personal site
+- 📱 quon.sn0wman.kr - Free QRCode Generator
 - 🎮 sn0wmanCS2.kr — CS2 community  
 - ⛪ dongtanms.kr — Church platform  
-- 🌅 repentanceheaven.kr — Mission organization  
+- 🌅 repentanceheaven.kr — Mission organization
 
 ## I Like To
 
