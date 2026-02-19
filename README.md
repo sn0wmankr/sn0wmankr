@@ -21,6 +21,3 @@ AI-first builder who enjoys vibe coding ideas into reality.
 - Prototype fast  
 - Automate repetitive work  
 - Break things and improve them  
-- Build first, optimize later  
-
-Keep shipping.
