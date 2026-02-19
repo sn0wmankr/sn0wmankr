@@ -15,9 +15,3 @@ AI-first builder who enjoys vibe coding ideas into reality.
 - 🎮 sn0wmanCS2.kr — CS2 community  
 - ⛪ dongtanms.kr — Church platform  
 - 🌅 repentanceheaven.kr — Mission organization
-
-## I Like To
-
-- Prototype fast  
-- Automate repetitive work  
-- Break things and improve them  
